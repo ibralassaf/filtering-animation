@@ -34,7 +34,7 @@
 
 ### What is filtering animation ✌️
 
-Mini project from developedbyed that I tried to test Framer library with React and bring some API movies from film database (TMDB) to test animation 🤟
+Mini project that I tried to test Framer library with React and fetch data from API movies from film database (TMDB) to test animation, the project was made thanks to developedbyed video 🤟
 
 ## 💻 Techstack
 
