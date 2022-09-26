@@ -1,70 +1,110 @@
-# Getting Started with Create React App
+<p align="center">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+</p>
+<h1 align="center">Filtering animation 🎞</h1>
 
-## Available Scripts
+<p align="center">
+<a href="https://github.com/ibralassaf/filtering-animation/blob/master/LICENSE" target="blank">
+<img src="https://img.shields.io/github/license/saviomartin/slickr?style=flat-square" alt="slickr licence" />
+</a>
+<a href="https://github.com/ibralassaf/filtering-animation/fork" target="blank">
+<img src="https://img.shields.io/github/forks/ibralassaf/filtering-animation?style=flat-square" alt="slickr forks"/>
+</a>
+<a href="https://github.com/ibralassaf/filtering-animation/stargazers" target="blank">
+<img src="https://img.shields.io/github/stars/ibralassaf/filtering-animation?style=flat-square" alt="slickr stars"/>
+</a>
+<a href="https://github.com/ibralassaf/filtering-animation/issues" target="blank">
+<img src="https://img.shields.io/github/issues/ibralassaf/filtering-animation?style=flat-square" alt="slickr issues"/>
+</a>
+<a href="https://github.com/ibralassaf/filtering-animation/pulls" target="blank">
+<img src="https://img.shields.io/github/issues-pr/ibralassaf/filtering-animation?style=flat-square" alt="slickr pull-requests"/>
+</a>
 
-In the project directory, you can run:
+</p>
 
-### `npm start`
+<p align="center"><img src="https://i.imgur.com/UX7vunL.gif" alt="filtering-animation gif" width="550" /></p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+<p align="center">
+    <a href="https://fian.ibas.dev/">View Demo</a>
+    ·
+    <a href="https://github.com/ibralassaf/filtering-animation/issues/new/choose">Report Bug</a>
+    ·
+    <a href="https://github.com/ibralassaf/filtering-animation/issues/new/choose">Request Feature</a>
+</p>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### What is filtering animation ✌️
 
-### `npm test`
+Mini project from developedbyed that I tried to test Framer library with React and bring some API movies from film database (TMDB) to test animation 🤟
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## 💻 Techstack
 
-### `npm run build`
+> The techs and tools.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- ⚙️ **React**
+- 📦 **Framer**
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+You can discover the rest yourself ✨️
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🛠️ Installation Steps
 
-### `npm run eject`
+1. Clone the repository
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+```bash
+git clone https://github.com/ibralassaf/filtering-animation.git
+```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+2. Change the working directory
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```bash
+cd filtering-animation
+```
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+3. Install dependencies
 
-## Learn More
+```bash
+npm install
+```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+4. Create `.env` file in root and add your variables
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+REACT_APP_ACCESS=YOUR_TMDB_API_KEY
+```
 
-### Code Splitting
+5. Run the app
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+```bash
+npm start
+```
 
-### Analyzing the Bundle Size
+---
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+> **Note**
+> You can get free API key from here 👇
 
-### Making a Progressive Web App
+```bash
+https://www.themoviedb.org/signup
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+You are all set! Open [localhost:3000](http://localhost:3000/) to see the app.
 
-### Advanced Configuration
+## 🍰 Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+- Feel free to contribute and put your touch. Create a branch, add commits, and [open a pull request](https://github.com/ibralassaf/things-have-to-do/compare).
 
-### Deployment
+## 🛡️ License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+This project is licensed under the MIT License - see the [`LICENSE`](LICENSE) file for details.
 
-### `npm run build` fails to minify
+## 👨‍💻 Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### 👤 Ibrahim Alassaf
+
+- Twitter: [@Ibralassaf](https://twitter.com/Ibralassaf)
+- Github: [@Ibralassaf](https://github.com/Ibralassaf)
+
+---
+
+<h3 align="center">
+Thanks for reading ⭐️
+</h3>
