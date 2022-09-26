@@ -22,7 +22,7 @@
 
 </p>
 
-<p align="center"><img src="https://i.imgur.com/UX7vunL.gif" alt="filtering-animation gif" width="550" /></p>
+<p align="center"><img src="https://i.imgur.com/UX7vunL.gif" alt="filtering-animation gif" /></p>
 
 <p align="center">
     <a href="https://fian.ibas.dev/">View Demo</a>
