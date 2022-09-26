@@ -17,7 +17,6 @@ function App() {
       `https://api.themoviedb.org/3/movie/popular?api_key=${process.env.REACT_APP_ACCESS}&language=en-US&page=1`
     );
     const movies = await data.json();
-    console.log(movies);
     setPopular(movies.results);
     setFiltered(movies.results);
   };
