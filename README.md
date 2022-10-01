@@ -22,8 +22,8 @@
 
 </p>
 
-<p align="center"><img src="https://i.imgur.com/UX7vunL.gif" alt="filtering-animation gif" />
-<img src="https://i.imgur.com/7xodsJ9.png" alt="filtering-animation gif" />
+<p align="center"><img src="/public/intro.gif" alt="filtering-animation gif" />
+
 </p>
 
 <p align="center">
